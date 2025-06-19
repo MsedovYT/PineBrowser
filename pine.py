@@ -87,7 +87,7 @@ class BrowserTab(QWidget):
 class TabbedBrowser(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle(f"{name} (Pine engine v.01)")
+        self.setWindowTitle(f"{name} (Pine engine v.0.2)")
         self.setGeometry(100, 100, 1200, 800)
 
         self.tabs = QTabWidget()
