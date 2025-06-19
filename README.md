@@ -2,7 +2,7 @@
 Compact, Smart, and safe browser made using python.
 
 **HOW TO INSTALL**
-1. Download Python (if you haven't already)
+1. Download Python (if you haven't already, you can get it at [python.org])
 2. Donload this repository as a .zip file
 3. Unzip the file
 4. Run *pine_installer.py* (more on that later)
