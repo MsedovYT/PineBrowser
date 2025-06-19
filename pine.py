@@ -1,3 +1,4 @@
+# Version 0.2 
 import sys
 import configparser
 import qdarkstyle
